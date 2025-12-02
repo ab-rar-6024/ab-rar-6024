@@ -4,7 +4,6 @@
 Welcome to my GitHub profile! I'm a passionate developer specializing in the MERN stack and data science. Here, you'll find a collection of my projects and experiments blending web development with data analysis.
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="icon" width="25" height="25" /> About Me
-# 💫 About Me:
 🔭 I’m currently working on VS Code clone<br>🌱 I’m currently learning Go Lang<br>⚡ I’m currently working on startup project
 
 
