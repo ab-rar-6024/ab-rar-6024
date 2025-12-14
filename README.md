@@ -33,6 +33,4 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in the MER
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
 
-[![](https://visitcountpro.netlify.app/api?id=VishwaGauravIn&pretty=true)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
