@@ -1,4 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/D5612AQHmfXu03WIBhA/article-cover_image-shrink_720_1280/0/1689012633580?e=2147483647&v=beta&t=tLTJ7NRLZEh7NzJTurK5kVFyZuhqvEo_QRXMfZEilPs)
 
 # <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" alt="icon" width="30" height="30" /> Hi there, I'm Mohamed Abrar! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="icon" width="30" height="30" />
 Welcome to my GitHub profile! I'm a passionate developer specializing in the MERN stack and data science. Here, you'll find a collection of my projects and experiments blending web development with data analysis.
