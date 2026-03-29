@@ -1,4 +1,4 @@
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 # <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" alt="icon" width="30" height="30" /> Hi there, I'm Mohamed Abrar! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="icon" width="30" height="30" />
 Welcome to my GitHub profile! I'm a passionate developer specializing in the MERN stack and data science. Here, you'll find a collection of my projects and experiments blending web development with data analysis.
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
