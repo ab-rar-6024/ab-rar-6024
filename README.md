@@ -6,6 +6,10 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in the MER
 🔭 I’m currently working on VS Code clone<br>🌱 I’m currently learning Go Lang<br>⚡ I’m currently working on startup project
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliflikescoding&label=Profile%20views&color=0e75b6&style=flat" alt="aliflikescoding" /> </p>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
 
 ![line](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 
