@@ -2,14 +2,14 @@
 # <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" alt="icon" width="30" height="30" /> Hi there, I'm Mohamed Abrar! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="icon" width="30" height="30" />
 Welcome to my GitHub profile! I'm a passionate developer specializing in the MERN stack and data science. Here, you'll find a collection of my projects and experiments blending web development with data analysis.
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="icon" width="25" height="25" /> About Me
-🔭 I’m currently working on VS Code clone<br>🌱 I’m currently learning Go Lang<br>⚡ I’m currently working on startup project
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="icon" width="25" height="25" /> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliflikescoding&label=Profile%20views&color=0e75b6&style=flat" alt="aliflikescoding" /> </p>
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" width="350" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 </a>
-
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="icon" width="25" height="25" /> About Me
+🔭 I’m currently working on VS Code clone<br>🌱 I’m currently learning Go Lang<br>⚡ I’m currently working on startup project
 ![line](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 
 # 🌐 Socials:
