@@ -4,7 +4,7 @@
 
 # Hi, I'm Mohamed Abrar 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Data+Science+Enthusiast;Building+PyroGuard+%F0%9F%94%A5;Learning+Go+Lang" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Data+Science+Enthusiast;Open+to+Collaboration;Learning+Go+Lang" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ab-rar-6024&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/ab-rar-6024)
 [![Followers](https://img.shields.io/github/followers/ab-rar-6024?label=Followers&style=social)](https://github.com/ab-rar-6024?tab=followers)
@@ -16,35 +16,11 @@
 
 ## 🔭 About Me
 
-- 🔥 Currently building **[PyroGuard](https://github.com/ab-rar-6024/Pyroguard-intelligence)** — a real-time industrial wildfire & thermal-anomaly intelligence platform
-- 💻 Also working on a **VS Code Clone**
+- 💻 Working on a **VS Code Clone**
 - 🌱 Learning **Go**
 - ⚡ Building a **Startup Project**
 - 🧠 Passionate about the **MERN stack** and **data science**
 - 📫 Reach me at **samohamedabrar2005@gmail.com**
-
----
-
-## 🚀 Featured Project
-
-<table>
-<tr>
-<td>
-
-### 🔥 [PyroGuard — Industrial Thermal & Fire Intelligence](https://github.com/ab-rar-6024/Pyroguard-intelligence)
-
-A real-time industrial wildfire and thermal-anomaly early-warning system. Correlates NASA FIRMS satellite thermal detections with high-hazard industrial infrastructure, classifies fire types with AI, models blast radii and toxic downwind plume dispersion, and ships a tactical AI incident co-pilot.
-
-[![React](https://img.shields.io/badge/React-19.0.1-blue.svg)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.8.2-blue.svg)](https://www.typescriptlang.org/)
-[![Groq](https://img.shields.io/badge/Groq-GPT--OSS-orange.svg)](https://groq.com/)
-[![NASA FIRMS](https://img.shields.io/badge/NASA-FIRMS-red.svg)](https://firms.modaps.eosdis.nasa.gov/)
-
-🔗 **[Live Demo](https://pyroguard.vercel.app)** &nbsp;·&nbsp; ⭐ **[Star it on GitHub](https://github.com/ab-rar-6024/Pyroguard-intelligence)**
-
-</td>
-</tr>
-</table>
 
 ---
 
